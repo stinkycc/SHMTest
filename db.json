@@ -1,9 +1,9 @@
 
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    { "id": 1, "title": "Post 1" , "img" : "https://images.craigslist.org/00B0B_iwsGpr6TvUk_0fu06L_600x450.jpg" },
+    { "id": 2, "title": "Post 2", "img" : "https://images.craigslist.org/00l0l_6hUl2Z5hO4F_0cz0fu_600x450.jpg" },
+    { "id": 3, "title": "Post 3", "img" : "https://images.craigslist.org/00F0F_j4qmjs3EX5h_0fv06G_600x450.jpg" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
