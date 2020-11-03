@@ -3,7 +3,6 @@
   "post" : {
     "id": 1,
     "user":"stinky",
-    "owner":"stinky",
     "title":"Wood sale",
     "data":"11/03/2020",
     "status":"sold",
