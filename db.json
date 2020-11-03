@@ -1,5 +1,33 @@
 
 {
+  "post" : {
+    "id": 1,
+    "user":"stinky",
+    "title":"Wood sale",
+    "data":"11/03/2020",
+    "status":"sold",
+    "category":"other",
+    "condition":"new",
+    "description":"Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes",
+    "price": 17,
+    "email":"example@gmail.com",
+    "phone":"12345",
+    "zipcodes":"11111"
+    "address":"123 ave, ***, CA, 11111",
+    "deliverytypes":[
+    {"deliverytype":"delivery"},
+    {"deliverytype":"pick up"}
+    ],
+     "transactions":[
+       {"transaction":"cash"},
+       {"transaction":"paypal"}
+     ],
+    "imgs":[
+      {"img" : "https://images.craigslist.org/00B0B_iwsGpr6TvUk_0fu06L_600x450.jpg" },
+      {"img" : "https://images.craigslist.org/00l0l_6hUl2Z5hO4F_0cz0fu_600x450.jpg" },
+      {"img" : "https://images.craigslist.org/00F0F_j4qmjs3EX5h_0fv06G_600x450.jpg" }
+    ]
+  }
   "posts": [
     { "id": 1, "title": "Post 1" , "img" : "https://images.craigslist.org/00B0B_iwsGpr6TvUk_0fu06L_600x450.jpg" },
     { "id": 2, "title": "Post 2", "img" : "https://images.craigslist.org/00l0l_6hUl2Z5hO4F_0cz0fu_600x450.jpg" },
