@@ -23,9 +23,9 @@
        {"transaction":"paypal"}
      ],
     "imgs":[
-      {"img" : "https://source.unsplash.com/aZjw7xI3QAA/1144x763" },
-      {"img" : "https://source.unsplash.com/c77MgFOt7e0/1144x763" },
-      {"img" : "https://source.unsplash.com/QdBHnkBdu4g/1144x763" }
+      { "id": 1, "title": "Post 1" , "img" : "https://source.unsplash.com/aZjw7xI3QAA/1144x763" },
+    { "id": 2, "title": "Post 2", "img" : "https://source.unsplash.com/c77MgFOt7e0/1144x763" },
+    { "id": 3, "title": "Post 3", "img" : "https://source.unsplash.com/QdBHnkBdu4g/1144x763" }
     ]
   },
   "posts": [
