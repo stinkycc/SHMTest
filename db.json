@@ -55,7 +55,7 @@
     "postEmail": "ricksun@gmail.com",
     "postPhone": "110120119",
     "postZipcode": "10010",
-    "postAddress": "on earth"，
+    "postAddress": "on earth",
     "postImage":[
       { "id": 1, "title": "Post 1" , "img" : "https://source.unsplash.com/aZjw7xI3QAA/1144x763" },
     { "id": 2, "title": "Post 2", "img" : "https://source.unsplash.com/c77MgFOt7e0/1144x763" },
