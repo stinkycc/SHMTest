@@ -1,28 +1,62 @@
 
 {
   "post" : {
-    "id": 1,
-    "user":"stinky",
-    "title":"Wood sale",
-    "data":"11/03/2020",
-    "status":"sold",
-    "category":"other",
-    "condition":"new",
-    "description":"Description is the pattern of narrative development that aims to make vivid a place, object, character, or group. Description is one of four rhetorical modes",
-    "price": 17,
-    "email":"example@gmail.com",
-    "phone":"12345",
-    "zipcodes":"11111",
-    "address":"123 ave, ***, CA, 11111",
-    "deliverytypes":[
-    {"deliverytype":"delivery"},
-    {"deliverytype":"pick up"}
+ "postId": 224,
+    "deliveryType": [
+        {
+            "id": 225,
+            "deliveryType": "by train"
+        },
+        {
+            "id": 226,
+            "deliveryType": "by Rocket"
+        }
     ],
-     "transactions":[
-       {"transaction":"cash"},
-       {"transaction":"paypal"}
-     ],
-    "imgs":[
+    "transactionMethod": [
+        {
+            "id": 232,
+            "transactionMethod": "cash"
+        },
+        {
+            "id": 233,
+            "transactionMethod": "zeller"
+        }
+    ],
+    "keyword": [
+        {
+            "id": 227,
+            "parsed_value": "dell desktop computer"
+        },
+        {
+            "id": 228,
+            "parsed_value": "dual 3w speaker"
+        },
+        {
+            "id": 229,
+            "parsed_value": "thin bezel"
+        },
+        {
+            "id": 230,
+            "parsed_value": "monitor"
+        },
+        {
+            "id": 231,
+            "parsed_value": "computer"
+        }
+    ],
+    "postDate": 1603411200000,
+    "postTitle": "Dell desktop computer",
+    "postCategory": "computer",
+    "postCondition": "new",
+    "postDescription": " Complement your desk with this elegant and stylish 23 monitor designed to shine with ultra-thin bezels and built-in dual 3W speakers.",
+    "postOwner": "Rick Sun",
+    "postStatus": "onsale",
+    "postPrice": 908,
+    "postEmail": "ricksun@gmail.com",
+    "postPhone": "110120119",
+    "postZipcode": "10010",
+    "postAddress": "on earth"，
+    "postImage":[
       { "id": 1, "title": "Post 1" , "img" : "https://source.unsplash.com/aZjw7xI3QAA/1144x763" },
     { "id": 2, "title": "Post 2", "img" : "https://source.unsplash.com/c77MgFOt7e0/1144x763" },
     { "id": 3, "title": "Post 3", "img" : "https://source.unsplash.com/QdBHnkBdu4g/1144x763" }
